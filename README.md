@@ -30,3 +30,6 @@ Here are the key areas the Ganak Gyan Technology focuses on:
    - The project promotes the development of digital infrastructure in underserved areas by building local digital centers and providing access to the internet.
 
 In summary, Ganak Gyan Technology is about bringing the power of technology and knowledge to rural India, helping create a digitally inclusive society where everyone can benefit from modern tools and resources. If you were referring to a different term or technology under "Ganak Gyan," let me know, and I can adjust my answer!
+
+
+![Uploading Screenshot 2024-11-18 120354.png…]()
